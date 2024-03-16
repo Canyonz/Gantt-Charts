@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 Проект написан в соответствии с методологией Feature sliced design
 
-### Работа с данными
+## Работа с данными
 
 Взаимодействие с данными осуществляется с помощью redux toolkit.
 

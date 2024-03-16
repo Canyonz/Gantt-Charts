@@ -4,7 +4,7 @@ import svgr from "vite-plugin-svgr";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-	base: "/Frontendd/",
+	base: "/Gantt-Charts/",
 	plugins: [
 		svgr({
 			include: "**/*.svg",
@@ -28,7 +28,6 @@ export default defineConfig({
 		alias: [{ find: "@", replacement: "/src" }],
 	},
 	define: {
-		__BASE__: JSON.stringify("/Frontendd/"),
 		__API__: JSON.stringify("http://26.146.72.207:8000/"),
 	},
 });

@@ -27,6 +27,6 @@ export const routeConfig = createBrowserRouter(
 		},
 	],
 	{
-		basename: "/Frontendd/",
+		basename: "/Gantt-Charts/",
 	}
 );
