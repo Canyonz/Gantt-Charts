@@ -19,5 +19,5 @@ Currently, two official plugins are available:
 
 Сервер разрабатывался другим разработчиком, на хостинг разместить не получилось.
 
-## Ссылка на gh-pages
+## Ссылка на gh-pages 
 https://canyonz.github.io/Gantt-Charts/
