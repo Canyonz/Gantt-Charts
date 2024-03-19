@@ -26,4 +26,5 @@ https://canyonz.github.io/Gantt-Charts/
 ## Данный для тестовой авторизации 
 
 Login: Testing
+
 Password: 123
