@@ -20,4 +20,10 @@ Currently, two official plugins are available:
 Сервер разрабатывался другим разработчиком, на хостинг разместить не получилось.
 
 ## Ссылка на gh-pages 
+
 https://canyonz.github.io/Gantt-Charts/
+
+## Данный для тестовой авторизации 
+
+Login: Testing
+Password: 123
